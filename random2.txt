@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is random no.2
+=======
+this is added in github
+>>>>>>> fd961e773c4d46fa53909ae1fc9a75c5696d4913
